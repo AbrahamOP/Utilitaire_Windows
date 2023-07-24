@@ -6,8 +6,8 @@ Permet d'exécuter des commandes de base avec une interface simple:
 
 - commande de Nettoyage 
 - commande Réseaux
-- commande pour exécuter des programme
+- commande pour exécuter des programmes
 
 
-si vous avez des idée d'amélioration vous pouvais me contacter 
+si vous avez des idées d'amélioration vous pouvez me contacter 
   
